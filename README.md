@@ -4,6 +4,8 @@ MusicBrainz is a service which searches for music artists based on given artist 
 
 This is the format of the API Response in swagger https://app.swaggerhub.com/apis/ceola/artist-releases/1.0.0
 
+### System Diagram
+![System Diagram](/SystemDiagram.png)
 
 ### Installation
 
