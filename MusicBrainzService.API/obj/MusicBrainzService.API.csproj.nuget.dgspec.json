@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.API/MusicBrainzService.API.csproj": {}
+  },
+  "projects": {
+    "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.API/MusicBrainzService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.API/MusicBrainzService.API.csproj",
+        "projectName": "MusicBrainzService.API",
+        "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.API/MusicBrainzService.API.csproj",
+        "packagesPath": "/Users/ceola/.nuget/packages/",
+        "outputPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ceola/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/MusicBrainzService.DAL.csproj": {
+                "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/MusicBrainzService.DAL.csproj"
+              },
+              "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj": {
+                "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/MusicBrainzService.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/MusicBrainzService.DAL.csproj",
+        "projectName": "MusicBrainzService.DAL",
+        "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/MusicBrainzService.DAL.csproj",
+        "packagesPath": "/Users/ceola/.nuget/packages/",
+        "outputPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ceola/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj": {
+                "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MetaBrainz.MusicBrainz": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj",
+        "projectName": "MusicBrainzService",
+        "projectPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/MusicBrainzService.csproj",
+        "packagesPath": "/Users/ceola/.nuget/packages/",
+        "outputPath": "/Users/ceola/Documents/workspace/Coles/MusicBrainzService/MusicBrainzService/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ceola/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

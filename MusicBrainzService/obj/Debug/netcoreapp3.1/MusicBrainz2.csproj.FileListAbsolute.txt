@@ -1,0 +1,9 @@
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/bin/Debug/netcoreapp3.1/MusicBrainz2.deps.json
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/bin/Debug/netcoreapp3.1/MusicBrainz2.dll
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/bin/Debug/netcoreapp3.1/MusicBrainz2.pdb
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.csproj.CoreCompileInputs.cache
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.AssemblyInfoInputs.cache
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.AssemblyInfo.cs
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.dll
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.pdb
+/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz/obj/Debug/netcoreapp3.1/MusicBrainz2.csprojAssemblyReference.cache

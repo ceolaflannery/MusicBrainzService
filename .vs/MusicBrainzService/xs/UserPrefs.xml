@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{8FA01827-C65C-44CD-A5DF-8EC5C654AF08}|MusicBrainz.API">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="MusicBrainzService/MusicBrainzService.csproj" Line="8" Column="1" />
+      <File FileName="MusicBrainzService/Artist.cs" Line="1" Column="1" />
+      <File FileName="MusicBrainzService/Release.cs" />
+      <File FileName="MusicBrainzService.API/Search/ArtistReleasesSearcher.cs" />
+      <File FileName="MusicBrainzService.API/Search/IArtistReleasesSearcher.cs" />
+      <File FileName="MusicBrainzService.API/ArtistReleasesController.cs" />
+      <File FileName="MusicBrainzService.API/ArtistReleasesRequest.cs" />
+      <File FileName="MusicBrainzService.API/ArtistReleasesResponse.cs" Line="12" Column="1" />
+      <File FileName="MusicBrainzService.API/Startup.cs" />
+      <File FileName="MusicBrainzService.DAL/ArtistReleasesRepository.cs" />
+      <File FileName="README.md" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MusicBrainzService" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/ceola/Documents/workspace/Coles/MusicBrainzService/README.md" selected="True" />
+            </Node>
+            <Node name="MusicBrainzService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MusicBrainzService.API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Search" expanded="True" />
+            </Node>
+            <Node name="MusicBrainzService.DAL" expanded="True" />
+            <Node name="MusicBrainzService.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MusicBrainzService" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MusicBrainzService.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

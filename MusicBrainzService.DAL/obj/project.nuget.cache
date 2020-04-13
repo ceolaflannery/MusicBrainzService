@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JPuoKDFulEJow43IMLyOHU3DokPOsIPq/Zd9xTotzsLU55u0GLzR6N/NRF4pz/euCr2vQ079txj9oUez7QkiTw==",
+  "success": true,
+  "projectFilePath": "/Users/ceola/Documents/workspace/MusicBrainz/MusicBrainz/MusicBrainz2.DAL/MusicBrainz2.DAL.csproj",
+  "expectedPackageFiles": [
+    "/Users/ceola/.nuget/packages/metabrainz.common.json/1.0.0/metabrainz.common.json.1.0.0.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/metabrainz.musicbrainz/2.0.0/metabrainz.musicbrainz.2.0.0.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.configuration.binder/3.1.3/microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.3/microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.3/microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.logging/3.1.3/microsoft.extensions.logging.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.3/microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.options/3.1.3/microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "/Users/ceola/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
